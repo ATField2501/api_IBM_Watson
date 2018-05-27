@@ -1,4 +1,7 @@
 #!/bin/bash
+# -*- coding: utf8
+# Script de dialogue avec l'api ibm watson text-to-speech 
+# Auteur: Cagliostro <atfield2501@gmail.com>
 
 curl -X POST -u "******":"*****" \
 --header "Content-Type: application/json" \
